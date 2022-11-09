@@ -1,17 +1,14 @@
-# Site wide configuration
-
 title: Shubh Prakash
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Shubh Prakash 
+  name: Shubh Prakash
   avatar: 
   bio: "3rd year Undergraduate at Indian Institute of Science, Bangalore"
-  email: 
+  email: shubhprakash@iisc.ac.in
   # Do not include the @ symbol in your Twitter username
- 
   linkedin: 
   github: 
   orcid: # ID Number (ex. 0000-0000-0000-0000)
@@ -22,8 +19,6 @@ owner:
     analytics:
     verify:
     scholar: #id
-  
- 
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
@@ -74,17 +69,3 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
